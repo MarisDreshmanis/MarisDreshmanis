@@ -12,6 +12,7 @@ Independent researcher. Published author with 11+ peer-deposited scientific publ
 - [Zenodo publications](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Dreshmanis%2C%20Maris%22)
 - [OpenAIRE](https://explore.openaire.eu/search/find?keyword=Dreshmanis)
 - [Academia.edu](https://independent.academia.edu/MarisDreshmanis)
+- [ReID](https://reincarnatiopedia.com/reid/ReID-0000-0000-0000-001X)
 
 **Wikidata contributions:**
 
